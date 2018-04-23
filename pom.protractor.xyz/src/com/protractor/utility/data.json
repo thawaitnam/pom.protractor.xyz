@@ -1,0 +1,24 @@
+{
+"url":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+"AddCustomer":{
+	"FirstName":"Namrata",
+	"LastName":"Namrata",
+	"PostCode":87878,
+	"Amount":2000,
+	"AmountWithdrawl":2001,
+	"AmountWithdrawlValid":1000
+},
+
+"HomeLogin":{
+ "CustomerLogin":"Customer Login",
+ "BankManagerLogin":"Bank Manager Login"
+},
+
+"Manager":{
+         "AddCustomer":"Add Customer",
+         "OpenAccount":"Open Account",
+         "Customers":"Customers"
+   }
+   
+
+    }
